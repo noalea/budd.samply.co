@@ -1,0 +1,25 @@
+Thank you again for purchasing Budd by Samply.co!
+
+If you have any questions after reading the instructions shoot me an email.
+hello@samply.co
+
+INSTRUCTIONS
+
+After downloading the folder make sure to extract it.
+
+Before you begin, you need a text editor to open the files inside.
+I recommend downloading Atom at https://atom.io/ .
+Once you have Atom installed and running, go to File -> Open and then find the folder Budd and press Open.
+
+Open up index.html, this is probably the only file you will ever need to touch.
+
+Any gray text inside a <!-- ... --> is a comment to let you know how to edit the text and what it is for.
+
+Move all the images you want to use into the 'images' folder first before changing it in 'index.html'.
+
+If you ever want to change any styling like colors or sizing ask a friend who knows a little bit about this or send me an email and I'll get back to you as soon as I can!
+
+Also once you are done editing your new site, you'll want to get it up online.
+Click this link www.bluehost.com/track/samplyco to get started :)
+
+PS: Don't touch any other files and code UNLESS you know what you are doing.
